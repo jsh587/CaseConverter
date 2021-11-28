@@ -1,0 +1,9 @@
+button {
+    width: 50px; height: 40px;
+}
+buttons {
+    display: flex; height: auto; width: auto;
+}
+text {
+    height: 500px; height : 400px;
+}
